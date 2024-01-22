@@ -1,0 +1,37 @@
+Unoptimized Results --- Eagle Processor with ECR vs. CNOT
+
+Items: 50, Depth_ECR: 9465, ECR_Gates: 12113, Average_Swap_Overhead: 2777.0
+Items: 50, Depth_CNOT: 2222, CNOT_Gates: 11352, Average_Swap_Overhead: 2523.3333333333335
+Items: 60, Depth_ECR: 12627, ECR_Gates: 16437, Average_Swap_Overhead: 3775.0
+Items: 60, Depth_CNOT: 3613, CNOT_Gates: 14716, Average_Swap_Overhead: 3201.3333333333335
+Items: 70, Depth_ECR: 14115, ECR_Gates: 20682, Average_Swap_Overhead: 4680.0
+Items: 70, Depth_CNOT: 4319, CNOT_Gates: 19744, Average_Swap_Overhead: 4367.333333333333
+Items: 80, Depth_ECR: 21581, ECR_Gates: 28268, Average_Swap_Overhead: 6632.0
+Items: 80, Depth_CNOT: 5942, CNOT_Gates: 26408, Average_Swap_Overhead: 6012.0
+Items: 90, Depth_ECR: 17453, ECR_Gates: 30756, Average_Swap_Overhead: 6818.0
+Items: 90, Depth_CNOT: 6647, CNOT_Gates: 32275, Average_Swap_Overhead: 7324.333333333333
+Items: 100, Depth_ECR: 27509, ECR_Gates: 39654, Average_Swap_Overhead: 9074.0
+Items: 100, Depth_CNOT: 7084, CNOT_Gates: 38190, Average_Swap_Overhead: 8586.0
+
+Slack Variable Reduction --- 100 Items QKP --- Initial Slack Count: 12
+
+Items: 100, Depth_ECR: 38265, ECR_Gates: 42102, Average_Swap_Overhead: 9890.0
+Items: 100, Depth_CNOT: 7348, CNOT_Gates: 39356, Average_Swap_Overhead: 8974.666666666666
+Items: 100, Depth_ECR: 23961, ECR_Gates: 40344, Average_Swap_Overhead: 9378.0
+Items: 100, Depth_CNOT: 9693, CNOT_Gates: 40969, Average_Swap_Overhead: 9586.333333333334
+Items: 100, Depth_ECR: 14920, ECR_Gates: 34952, Average_Swap_Overhead: 7654.0
+Items: 100, Depth_CNOT: 7525, CNOT_Gates: 38717, Average_Swap_Overhead: 8909.0
+Items: 100, Depth_ECR: 17519, ECR_Gates: 36657, Average_Swap_Overhead: 8295.0
+Items: 100, Depth_CNOT: 6010, CNOT_Gates: 34942, Average_Swap_Overhead: 7723.333333333333
+Items: 100, Depth_ECR: 20193, ECR_Gates: 38310, Average_Swap_Overhead: 8918.0
+Items: 100, Depth_CNOT: 7240, CNOT_Gates: 36819, Average_Swap_Overhead: 8421.0
+Items: 100, Depth_ECR: 21110, ECR_Gates: 34955, Average_Swap_Overhead: 7871.0
+Items: 100, Depth_CNOT: 7464, CNOT_Gates: 35882, Average_Swap_Overhead: 8180.0
+Items: 100, Depth_ECR: 25247, ECR_Gates: 37386, Average_Swap_Overhead: 8752.0
+Items: 100, Depth_CNOT: 7537, CNOT_Gates: 36540, Average_Swap_Overhead: 8470.0
+Items: 100, Depth_ECR: 8562, ECR_Gates: 14221, Average_Swap_Overhead: 1100.3333333333333
+Items: 100, Depth_CNOT: 2935, CNOT_Gates: 14237, Average_Swap_Overhead: 1105.6666666666667
+Items: 100, Depth_ECR: 8551, ECR_Gates: 14312, Average_Swap_Overhead: 1200.0
+Items: 100, Depth_CNOT: 2564, CNOT_Gates: 14218, Average_Swap_Overhead: 1168.6666666666667
+Items: 100, Depth_ECR: 8335, ECR_Gates: 14264, Average_Swap_Overhead: 1252.6666666666667
+Items: 100, Depth_CNOT: 2923, CNOT_Gates: 13849, Average_Swap_Overhead: 1114.3333333333333
